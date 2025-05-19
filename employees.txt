@@ -1,5 +1,0 @@
-1|Sean|Cheng|Mar 21, 1974|50000.00
-2|Nicole|Wei|Nov 26, 1975|48000.00
-3|David|Wang|Dec 25, 1980|40000.00
-4|Ivy|Wu|Jun 15, 1984|32000.00
-5|Louis|Chang|Feb 4, 1982|36000.00
